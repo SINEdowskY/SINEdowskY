@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SINEdowskY
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning python, django, flutter and react
+- 🌱 I’m currently learning python, django, flutter and vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
